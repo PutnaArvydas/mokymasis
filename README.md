@@ -1,7 +1,4 @@
-#include <iosream>
-using namespace std;
-int main()
-{
-cout<<"Labas";
-return 0;
-}
+Versijoje 0.2:
+  Atsirado lt versija.
+Versijoje 0.1:
+ buvo realizuota Labas
